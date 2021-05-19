@@ -1,0 +1,8 @@
+keyboard
+pyautogui
+PySimpleGUI27
+pywin32
+pypiwin32
+SpeechRecognition
+pyAudio
+typing
