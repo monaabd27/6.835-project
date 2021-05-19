@@ -2,8 +2,11 @@
 
 ## What's in here:
 packages/leap : folder of all the files needed to interface the LeapMotion sensor with python
+
 help.pdf: help document for user actions/commands
+
 requirements.txt: python 2.7 packages to install
+
 main.py: the script for running the system
 
 
