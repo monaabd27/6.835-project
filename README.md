@@ -1,4 +1,4 @@
-# 6.835-project
+# 6.835-project - AbleControl: Computer Navigation for fine motor control disabilities
 
 ## What's in here:
 packages/leap : folder of all the files needed to interface the LeapMotion sensor with python
