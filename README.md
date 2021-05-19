@@ -11,7 +11,15 @@ main.py: the script for running the system
 
 
 ## Prereqs for running: 
-Windows, Leapmotion 3.2.1 SDK (https://developer.leapmotion.com/releases/leap-motion-orion-321), Python 2.7 64 bit, microphone connected to computer
+Windows
+
+Leapmotion 3.2.1 SDK (https://developer.leapmotion.com/releases/leap-motion-orion-321)
+
+Python 2.7 64 bit
+
+microphone connected to computer
+
+internet access for using the google speech recognition api
 
 ## To run:
 Copy the contents of packages/leap into the main directory where main.py is
